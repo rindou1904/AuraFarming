@@ -1,0 +1,40 @@
+YÊU CẦU FRONTEND Hệ thống quản lý chuỗi cung ứng nông nghiệp thông minh
+
+1.  Chức năng chính
+
+-   Đăng nhập hệ thống
+-   Dashboard tổng quan (số lượng nông sản, đơn hàng, kho)
+-   Quản lý nông sản (thêm, sửa, xóa, xem)
+-   Quản lý kho
+-   Quản lý đơn hàng
+
+2.  Yêu cầu giao diện hiện đại
+
+-   Giao diện tối giản, dễ nhìn
+-   Sử dụng card để hiển thị dữ liệu
+-   Có icon minh họa chức năng
+-   Màu sắc phù hợp (xanh lá, trắng)
+-   Có sidebar hoặc navbar
+-   Bảng dữ liệu rõ ràng, có hover
+-   Form nhập liệu gọn, dễ dùng
+
+3.  Trải nghiệm người dùng
+
+-   Có loading khi tải dữ liệu
+-   Có thông báo khi thao tác thành công
+-   Có xác nhận khi xóa
+-   Chuyển trang mượt
+
+4.  Responsive
+
+-   Hiển thị tốt trên máy tính, tablet, điện thoại
+-   Sidebar có thể thu gọn
+
+5.  Kỹ thuật
+
+-   Sử dụng component-based
+-   Kết nối API backend
+-   Cấu trúc thư mục rõ ràng (components, pages, services)
+
+Tóm tắt: Frontend cần đơn giản, hiện đại, dễ sử dụng, hỗ trợ quản lý cơ
+bản và hiển thị dữ liệu trực quan.
